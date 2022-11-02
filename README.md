@@ -1,3 +1,11 @@
+Hasty fork of [doonstore/firebase-deploy](https://github.com/doonstore/firebase-deploy) to update the node version in the [Dockerfile](Dockerfile). Your results may vary.
+
+Current users:
+
+- api.tla (private repo)
+
+---
+
 # Firebase CLI Deployment
 
 A GitHub Action to deploy firebase hosting and functions together.
